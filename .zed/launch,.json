@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "label": "Debug Tetris",
+      "adapter": "lldb",
+      "program": "${workspaceFolder}/tetris-debug",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+    },
+  ],
+}

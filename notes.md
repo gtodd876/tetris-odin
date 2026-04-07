@@ -1,0 +1,5 @@
+- drawing a grid
+  - 10 wide
+  - 20 tall
+- debug feature
+  - draw / erase blocks in the playfield
