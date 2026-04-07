@@ -1,0 +1,6 @@
+# Build artifacts
+debug_build
+debug_build.dSYM/
+
+# Editor settings
+.zed/
